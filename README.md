@@ -1,20 +1,20 @@
 🛒 E-Market Place – Python & MySQL
-A command-line based E-Market Place application built with Python and MySQL. This application provides a complete shopping experience, allowing users to sign up, log in, browse products by category, filter them, manage a shopping cart, and complete purchases.
+A command-line based E-Market Place application built with Python and MySQL. This application provides a complete shopping experience, allowing users to sign up, log in, browse products, manage a shopping cart, and complete purchases.
 
 ✨ Features
-User Authentication: Secure sign-up and login system for users.
+👤 User Authentication: Secure sign-up and login system.
 
-Product Catalog: Browse products from different categories like Fashion and Electronics.
+🛍️ Product Catalog: Browse products from categories like Fashion and Electronics.
 
-Advanced Filtering: Filter products by price range, color, brand, and rating.
+🔍 Advanced Filtering: Filter products by price, color, brand, and rating.
 
-Shopping Cart: Add items to a persistent cart, view cart contents, and remove items.
+🛒 Shopping Cart: Add, view, and remove items from a persistent cart.
 
-Checkout System: Purchase single items or the entire cart's contents.
+💳 Checkout System: Purchase single items or the entire cart's contents.
 
-Bill Generation: Generates a detailed bill in the console upon successful purchase.
+🧾 Bill Generation: Generates a detailed bill in the console upon purchase.
 
-Relational Database: Uses MySQL to manage users, products, and pending carts.
+🗃️ Relational Database: Uses MySQL to manage all application data.
 
 🗂️ Project Structure
 e-market-place/
